@@ -1,0 +1,15 @@
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.AssemblyInfo.cs
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\bin\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.exe
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\bin\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.deps.json
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\bin\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.runtimeconfig.json
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\bin\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.dll
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\bin\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.pdb
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.dll
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\refint\DotNet_Tupla_Ternario_Objeto.dll
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.pdb
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\DotNet_Tupla_Ternario_Objeto.genruntimeconfig.cache
+G:\Meu Drive\.Net\DotNet_Tupla_Ternario_Objeto\obj\Debug\net6.0\ref\DotNet_Tupla_Ternario_Objeto.dll

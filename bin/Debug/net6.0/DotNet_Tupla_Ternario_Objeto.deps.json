@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNet_Tupla_Ternario_Objeto/1.0.0": {
+        "runtime": {
+          "DotNet_Tupla_Ternario_Objeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet_Tupla_Ternario_Objeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
