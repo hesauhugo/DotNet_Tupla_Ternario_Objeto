@@ -1,1 +1,1 @@
-# DotNet_Tupla_Ternario_Objeto
+# DotNet Tupla Ternario Objeto
