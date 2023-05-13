@@ -1,8 +1,20 @@
-﻿
+﻿using DotnetTuplaTernarioObjeto.Models;
+var leitor = new LeituraArquivo();
+var tupla = leitor.LerArquivo("Arquivo.txt");
 
-var tupla = Tuple.Create(1,"Enzo","Gabriel",1.80M);
-Console.WriteLine($"Id: {tupla.Item1}");
-Console.WriteLine($"Nome: {tupla.Item2}");
-Console.WriteLine($"SobreNome: {tupla.Item3}");
-Console.WriteLine($"Altura: {tupla.Item4}");
+if(tupla.Sucesso){
+
+    Console.WriteLine($"Quantidade de linhas lidas: {tupla.QuantidadeLinhas}");
+    Console.WriteLine($"Início da leitura");
+    Console.WriteLine($"--------------------------------");
+    foreach (var item in tupla.Linhas)
+    {
+        Console.WriteLine(item);
+    }
+    Console.WriteLine($"--------------------------------");
+    Console.WriteLine($"Fim da leitura");
+}else{
+    Console.WriteLine($"Não foi possível efetuar a leitura do arquivo");
+}
+
 
