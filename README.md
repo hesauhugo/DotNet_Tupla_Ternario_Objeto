@@ -1,5 +1,5 @@
 ## DotNet Tupla Ternario Objeto
-<a href="\link"> Anotações </a>
+<a href="[\link](https://github.com/hesauhugo/DotNet_Tupla_Ternario_Objeto/blob/main/Anotacoes.md)"> Anotações </a>
 
 ## Referências
 1. .[https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/value-tuples]
