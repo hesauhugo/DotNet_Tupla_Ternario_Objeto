@@ -1,13 +1,14 @@
 ﻿using DotnetTuplaTernarioObjeto.Models;
 var leitor = new LeituraArquivo();
-var tupla = leitor.LerArquivo("Arquivo.txt");
+// Descarte de variavel
+var (Sucesso, Linhas, _) = leitor.LerArquivo("Arquivo.txt");
 
-if(tupla.Sucesso){
+if(Sucesso){
 
-    Console.WriteLine($"Quantidade de linhas lidas: {tupla.QuantidadeLinhas}");
+    //Console.WriteLine($"Quantidade de linhas lidas: {tupla.QuantidadeLinhas}");
     Console.WriteLine($"Início da leitura");
     Console.WriteLine($"--------------------------------");
-    foreach (var item in tupla.Linhas)
+    foreach (var item in Linhas)
     {
         Console.WriteLine(item);
     }
